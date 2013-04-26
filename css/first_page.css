@@ -1,0 +1,7 @@
+#main_menu{
+	display:block;
+}
+.menu_item{
+	width: 100px;
+	float: left;
+}
